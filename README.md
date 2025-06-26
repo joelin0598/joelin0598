@@ -30,10 +30,10 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joelin0598&theme=dark&locale=es)](https://git.io/streak-stats)
-[![joelin0598 GitHub stats](https://github-readme-stats.vercel.app/api?username=joelin0598&theme=guatemala)](https://github.com/joelin0598/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats-iota-six.vercel.app?user=joelin0598&theme=radical&locale=es)](https://git.io/streak-stats)
+[![joelin0598 GitHub stats](https://github-readme-stats.vercel.app/api?username=joelin0598&theme=radical&locale=es)](https://github.com/joelin0598/github-readme-stats) 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelin0598&theme=guatemala&hide=lex)](https://github.com/joelin0598/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelin0598&theme=radical&locale=es&hide=lex)](https://github.com/joelin0598/github-readme-stats)
 
 <br>
 
