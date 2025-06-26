@@ -29,11 +29,27 @@
 ## GitHub Estadísticas 📈 :
 
 <br>
-
-[![GitHub Streak](https://github-readme-streak-stats-iota-six.vercel.app?user=joelin0598&theme=radical&locale=es)](https://git.io/streak-stats)
-[![joelin0598 GitHub stats](https://github-readme-stats.vercel.app/api?username=joelin0598&theme=radical&locale=es)](https://github.com/joelin0598/github-readme-stats) 
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats-iota-six.vercel.app?user=joelin0598&theme=radical&locale=es" alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/joelin0598/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=joelin0598&theme=radical&locale=es" alt="GitHub Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelin0598&theme=radical&locale=es&hide=lex)](https://github.com/joelin0598/github-readme-stats)
+<p align="left">
+  <a href="https://github.com/joelin0598/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelin0598&theme=radical&locale=es&hide=lex" alt="Top Languages"/>
+  </a>
+</p>
+
 
 <br>
 
