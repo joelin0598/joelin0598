@@ -29,27 +29,22 @@
 ## GitHub Estadísticas 📈 :
 
 <br>
-<table>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats-iota-six.vercel.app?user=joelin0598&theme=radical&locale=es" alt="GitHub Streak"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/joelin0598/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=joelin0598&theme=radical&locale=es" alt="GitHub Stats"/>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<div align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-iota-six.vercel.app?user=joelin0598&theme=radical&locale=es" alt="GitHub Streak" height="200"/>
+  </a>
+  <a href="https://github.com/joelin0598/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=joelin0598&theme=radical&locale=es" alt="GitHub Stats" height="200"/>
+  </a>
+</div>
 <br>
+
 <p align="left">
   <a href="https://github.com/joelin0598/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelin0598&theme=radical&locale=es&hide=lex" alt="Top Languages"/>
   </a>
 </p>
-
 
 <br>
 
