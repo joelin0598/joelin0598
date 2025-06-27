@@ -6,8 +6,8 @@
 ## Sobre mi :
 
 - 🎓 Actualmente estudió la carrera de Ingeniería en Sistemas de Información y Ciencias de la Computación 8vo Semestre [Universidad Mariano Gálvez de Guatemala](https://umg.edu.gt/ingenieria/sistemas)
+- ⚡ Soy Técnico en Soporte de Computadoras freelance 
 - 🏡 Vivo en San Juan Sacatepéquez, Guatemala
-- ⚡ **Hobbies ** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
 
