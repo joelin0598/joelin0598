@@ -42,6 +42,23 @@
 
 </p>
 
+## Proyectos Académicos 🎓
+
+Durante mi formación universitaria he trabajado en diversos proyectos grupales que integran arquitectura de software, desarrollo fullstack, monitoreo urbano y documentación técnica. Aquí comparto algunos de los más representativos:
+
+### 🛰️ Monitoreo Urbano
+Sistema distribuido para la visualización y análisis de eventos urbanos en tiempo real, con integración de microservicios, Kafka, Grafana y Prometheus. Incluye dashboards, alertas y simuladores de eventos.
+
+🔗 [Repositorio del proyecto](https://github.com/joelin0598/proyecto-arquitectura-2.git)
+
+### 🛠️ Mantenimiento Urbano
+Plataforma web para la gestión de reportes de mantenimiento municipal, desarrollada con Spring Boot, React, PostgreSQL y Docker. Incluye autenticación, paneles administrativos y documentación completa.
+
+🔗 [Repositorio del proyecto](https://github.com/joelin0598/proyecto_analisis_de_sistemas_2.git)
+
+> Ambos proyectos fueron desarrollados en equipo como parte de los cursos de Arquitectura de Software y Análisis de Sistemas II en la Universidad Mariano Gálvez. Mi rol incluyó liderazgo técnico, integración fullstack, documentación académica y presentación final.
+
+
 ## GitHub Estadísticas 📈 :
 
 <br>
