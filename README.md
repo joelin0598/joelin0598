@@ -13,27 +13,40 @@
 
 ## Tecnologías que conozco 🧑‍💻 :
 
-<br>
+<!-- Frontend -->
+<h3 align="left">🖼️ Frontend</h3>
+<p align="left">
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" title="HTML5"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" title="CSS3"/>
+  <img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" title="TypeScript"/>
+  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" title="React"/>
+</p>
 
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/> <img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000"/> <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"/>
-<br>
-<img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000"/> <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
-<br>
-<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/> <img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000"/>
-<br>
-<img src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
+<!-- Backend -->
+<h3 align="left">🧠 Backend</h3>
+<p align="left">
+  <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java"/>
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot"/>
+  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" title="PostgreSQL"/>
+  <img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" title="Oracle"/>
+  <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" title="Postman"/>
+</p>
 
+<!-- Otras tecnologías -->
+<h3 align="left">⚙️ Otras teconologías</h3>
+<p align="left">
+  <img src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" title="Linux"/>
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" title="Git"/>
+  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" title="Docker"/>
+  <img src="https://img.icons8.com/?size=100&id=37619&format=png&color=000000" title="Office Avanzado"/>
 
-<br>
+</p>
 
 ## GitHub Estadísticas 📈 :
 
 <br>
 
 <div align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-iota-six.vercel.app?user=joelin0598&theme=radical&locale=es" alt="GitHub Streak" height="200"/>
-  </a>
   <a href="https://github.com/joelin0598/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=joelin0598&theme=radical&locale=es" alt="GitHub Stats" height="200"/>
   </a>
