@@ -51,12 +51,59 @@ Sistema distribuido para la visualización y análisis de eventos urbanos en tie
 
 🔗 [Repositorio del proyecto](https://github.com/joelin0598/proyecto-arquitectura-2.git)
 
+**Stack Tecnológico:**  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
+
 ### 🛠️ Mantenimiento Urbano
 Plataforma web para la gestión de reportes de mantenimiento municipal, desarrollada con Spring Boot, React, PostgreSQL y Docker. Incluye autenticación, paneles administrativos y documentación completa.
 
 🔗 [Repositorio del proyecto](https://github.com/joelin0598/proyecto_analisis_de_sistemas_2.git)
 
+**🧩 Stack Tecnológico:**  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
 > Ambos proyectos fueron desarrollados en equipo como parte de los cursos de Arquitectura de Software y Análisis de Sistemas II en la Universidad Mariano Gálvez. Mi rol incluyó liderazgo técnico, integración fullstack, documentación académica y presentación final.
+
+### 🍽️ MealFinder
+
+Aplicación web frontend desarrollada con **React + TypeScript + Chakra UI** que permite **buscar recetas y comidas** a través de **APIs públicas gratuitas**.  
+Incluye una interfaz moderna, validación de formularios con *React Hook Form* y animaciones con *Framer Motion*.
+
+🔗 [Repositorio del proyecto](https://github.com/joelin0598/react-app-mealFinder)  
+🌐 [Vista previa en Vercel](https://react-app-meal-finder.vercel.app)
+
+**Stack Tecnológico:**  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+</p>
+
+> 💡 *Este proyecto fue creado de forma individual para mi portafolio frontend. Las APIs utilizadas son públicas y gratuitas.*
 
 
 ## GitHub Estadísticas 📈 :
